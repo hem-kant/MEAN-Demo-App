@@ -1,15 +1,11 @@
 {
-  "name": "mean-from-scratch",
-  "description": "MEAN from scratch",
+  "name": "MEAN-Demo-App",
+  "description": "MEAN-Demo-App",
   "main": "public/index.html",
-  "authors": [
-    "Enrico Giurin"
-  ],
-  "license": "ISC",
   "keywords": [
     "MEAN"
   ],
-  "homepage": "https://github.com/egch/mean-from-scratch",
+  "homepage": "https://github.com/hem-kant/MEAN-Demo-App",
   "moduleType": [],
   "ignore": [
     "**/.*",
